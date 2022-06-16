@@ -1,0 +1,33 @@
+*{
+  margin:0;padding: 0;box-sizing: border-box;
+
+}
+
+#test{
+  border:1px solid red;
+}
+
+.btnExplain{
+  border:1px solid green;
+  font-size: 10px;
+  display: inline-block;
+}
+
+#btn1{
+  position: relative;
+  display: block;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#btn2{
+  position: relative;
+  display: block;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.red{
+  border:1px solid rgb(255, 0, 234);
+  display:inline-block;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
