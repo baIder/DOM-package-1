@@ -5,11 +5,12 @@
 
 #test{
   border:1px solid red;
+  font-size: 25px;
 }
 
 .btnExplain{
   border:1px solid green;
-  font-size: 10px;
+  font-size: 15px;
   display: inline-block;
 }
 

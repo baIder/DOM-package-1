@@ -5,12 +5,11 @@
 
 #test{
   border:1px solid red;
-  font-size: 25px;
 }
 
 .btnExplain{
   border:1px solid green;
-  font-size: 15px;
+  font-size: 10px;
   display: inline-block;
 }
 
@@ -31,4 +30,4 @@
   display:inline-block;
 }
 
-/*# sourceMappingURL=/style.e308ff8e.css.map */
+/*# sourceMappingURL=style.910c7b97.css.map */
